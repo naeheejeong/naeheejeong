@@ -22,9 +22,9 @@ Digital Marketing Intern, 도와세움 (기업연계 · 요씨마트) &nbsp; 202
 </details>
 
 <details>
-<summary>TravPick 사용자 행동 측정 체계 설계</summary>
+<summary>TravPick B2B 브랜드 협업 스코어링</summary>
 
-여행 커머스 앱의 콘텐츠 유입부터 구매 전환까지 추적하는 사용자 행동 분석 환경 구축
+규칙 기반 리드 스코어링으로 B2B 아웃바운드 컨택 우선순위 재설계 (응답률 3%→9.3%)
 
 </details>
 
